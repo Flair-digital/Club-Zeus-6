@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
             return false;
         }
 
-        const phone = '5491128067715';      
+        const phone = '5491128067856';      
 let msg = ' 🍀 ¡Hola! Quiero mi usuario y el bonus de bienvenida:\n';
         msg += '*Nombre:* ' + user.value + "\n";
        
